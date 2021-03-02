@@ -14,6 +14,7 @@ cache:
     - .cache
 script:
   - npm run build # Generate static HTML files
+  - echo "scioxr.com" > build/CNAME
 
 deploy:
   provider: pages
