@@ -15,6 +15,7 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  --ifm-button-color: rgb(255, 255, 255);
 }
 
 .docusaurus-highlight-code-line {
@@ -22,4 +23,25 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.hero--primary {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: url("/img/work.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-position: center;
+}
+
+.button-header {
+  background-color: white;
+}
+
+.button-header:hover {
+  background-color: whitesmoke;
 }
