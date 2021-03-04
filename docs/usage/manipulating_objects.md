@@ -3,12 +3,12 @@ id: manipulating_objects
 title: Manipulating objects
 sidebar_label: Manipulating objects
 ---
-# HIGHLIGHTING MODEL:
+### HIGHLIGHTING MODEL:
 
 Place your hand on the object until yellow outline appears around it.
 
 
-# MOVE OBJECT MODEL:
+### MOVE OBJECT MODEL:
 
 When you've added model to the scene, now you can move it freely, and place it in the desired area.
 How to move model:
@@ -18,7 +18,7 @@ How to move model:
 3. Release trigger button to place object.
 
 
-# DESTROY OBJECT MDOEL:
+### DESTROY OBJECT MDOEL:
 
 If you want to remove the object.
 How to remove object:
@@ -29,7 +29,7 @@ How to remove object:
 4. Select "properties" tab on the left side of properties menu.
 5. Click on the "destroy" button in the bottom right corner of the properties menu.
 
-# SET PARENT TO OBJECT MODEL:
+### SET PARENT TO OBJECT MODEL:
 
 When u assigned "parent" to an object, that "parent" becomes attached to the other selected object (child).
 When u move "parent" object, the "child" object moves with it, and when you move child object, only child object moves.
@@ -44,7 +44,7 @@ How to set parent:
 7. Place that hand on the object you want to become the "parent".
 8. Press A or X button.
 
-# CODE:
+### CODE:
 
 If you want object to do something, you need to use code. Code is based on scratch programming language.
 How to use code:
@@ -54,3 +54,5 @@ How to use code:
 3. Press A or X button. 
 4. Select "code" tab on the left side of properties menu.
 5. Drag and drop nodes from the left side to the right side to code.
+
+![code panel](/img/screenshot/code.png)

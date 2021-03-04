@@ -3,9 +3,9 @@ id: navigation
 title: Navigation
 sidebar_label: Navigation
 ---
-# HOW TO USE VR CONTROLLERS FOR ORIENTATION IN SCIOXR:
+## HOW TO USE VR CONTROLLERS FOR ORIENTATION IN SCIOXR:
 
-## MOVING:
+### MOVING:
 
 On your left vr controller, use your tumb to move tumbstick controller.
 
@@ -14,7 +14,7 @@ Moving tumbstick controller to right side, moves you right.
 Moving tumbstick controller up, moves you forward.
 Moving tumbstick controller down, moves you backwards
 
-## Camera:
+### Camera:
 
 On your right vr controller, use your tumb to move tumbstick controller.
 
