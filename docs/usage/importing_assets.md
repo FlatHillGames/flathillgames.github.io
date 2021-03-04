@@ -14,3 +14,4 @@ To add model to the scene or environment:
 2. Select model tab on the left side
 3. Press trigger button to confirm model you want to add to the scene
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DC4097T3bxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

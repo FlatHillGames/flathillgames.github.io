@@ -19,8 +19,8 @@ We will do that by clicking on the Y button on your quest controller and select 
 
 ![object menu](/img/screenshot/object_menu.png)
 
-Lets choose some objects and add them to our world, select box and press trigger on either of the controller to add it to the scene.
-Congratulation, you've just added your first object!
+Lets choose some objects and add them to our world, select box and press trigger on either of the controllers to add it to the scene.
+Congratulations, you've just added your first object!
 
 ![added box to the scene](/img/screenshot/box_in_empty_scene.png)
 
@@ -30,7 +30,7 @@ Now we will make it dissapear. Press Y button and click code on the left side of
 
 ![code panel](/img/screenshot/code.png)
 
-Drag and drop from left side to the empty space on the right side a yellow block that is called "On start", next place block called "wait 1 second" under it and lastly, put block called "Destroy" under "last 1 second" block at the bottom.
+Drag and drop a yellow block that is called "On start" from left side to the empty space on the right side, next, place a block called "wait 1 second" under it and lastly, put a block called "Destroy" under "last 1 second" block at the bottom.
 You can do this, by attaching one block to the other, like a puzzle.
 
 ### Step 4
