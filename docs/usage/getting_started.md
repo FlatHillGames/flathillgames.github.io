@@ -37,12 +37,17 @@ You can do this, by attaching one block to the other, like a puzzle.
 
 Save scene by clicking Y button and clicking on the option on the left side of the menu and click save as and confirm. 
 
+![save as](/img/screenshot/save_as.png)
 
 ### Step 5 
 
-Now lets go back to menu and play our experience.
-Go back to the option menu and click on the back to menu tab. 
+Now lets go back to menu and play our experience.<br />
+Go back to the option menu and click on the main menu tab. 
+
+![back to main menu](/img/screenshot/back_main_menu_tab.png)
 
 We are back to the main menu, now lets load your experience by clicking on it, and click on play button under it.
+
+![play](/img/screenshot/play.png)
 
 **Congratulations on creating your first experience!**
